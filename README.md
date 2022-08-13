@@ -1,0 +1,3 @@
+- 👋 Hi, I’m rizwan
+- 👀 I’m interested in data analysis
+- 🌱 I’m currently learning ETL via Python
